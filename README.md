@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel Benini</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate Web developer from Italy</h3>
 
 <!-- - 🔭 I’m currently working on **a videogame called Be:Wildered. !**
 
