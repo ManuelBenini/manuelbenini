@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manuel Benini</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-- 🔭 I’m currently working on **a videogame called Be:Wildered. !**
+<!-- - 🔭 I’m currently working on **a videogame called Be:Wildered. !**
 
 - 🌱 I’m currently learning **C#, Net and Visual Studio**
 
-- 📫 How to reach me **manuelbenini1905@gmail.com**
+- 📫 How to reach me **manuelbenini1905@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
